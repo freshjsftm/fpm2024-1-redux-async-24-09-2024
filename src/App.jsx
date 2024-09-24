@@ -1,9 +1,9 @@
-import Todo from './components/Todo';
+import UsersList from './components/UsersList';
 
 function App() {
   return (
     <>
-      <Todo />
+      <UsersList />
     </>
   );
 }
